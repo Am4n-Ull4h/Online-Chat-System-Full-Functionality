@@ -7,7 +7,8 @@ npm install
 npm run dev
 
 # For Frontend
-# cd Frontend
+cd Frontend
+<br>
 npm install
 <br>
 npm start
