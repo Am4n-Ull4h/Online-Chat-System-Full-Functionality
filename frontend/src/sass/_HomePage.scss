@@ -1,0 +1,25 @@
+.homepage {
+  & > section {
+    width: clamp(310px, 75vw, 700px);
+    border-radius: 20px;
+    color: #414141;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  .homepage__header {
+    font-size: 30px;
+    color: rgb(235, 217, 55);
+    font-weight: 700;
+  }
+}
+.footer {
+  position: relative;
+  @include setPositions($top: 40px, $left: 50%);
+  transform: translate(-50%, -30%);
+  #footerLink {
+    font-size: 23px;
+    color: #95ccff;
+    &:hover {
+      color: #2f95f5;
+    }
+  }
+}
