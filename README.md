@@ -3,9 +3,11 @@
 
 # For backend
 npm install
+<br>
 npm run dev
 
 # For Frontend
 # cd Frontend
 npm install
+<br>
 npm start
