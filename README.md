@@ -1,1 +1,2 @@
-<h1>Developed By Asad Tariq saddiqui <h1>
+<h1>Developed By Sikandar Chandia <h1>
+<h2> C.E.O Codes Thinker</h2>
